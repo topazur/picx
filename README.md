@@ -18,8 +18,8 @@
 > PicX repo [https://github.com/XPoet/picx](https://github.com/XPoet/picx)<br />
 > 基于 tinypng 的自动压缩js工具 [https://github.com/sudongyuer/easy-tinypng-cli](https://github.com/sudongyuer/easy-tinypng-cli)<br />
 
-## Example
+## Example (use Staticaly)
 
 <p align="center">
-<img src="https://git.poker/topazur/picx/blob/main/pine-nut.png?raw=true" width="200"/>
+<img src="https://cdn.staticaly.com/gh/topazur/picx@main/pine-nut.png?raw=true" width="200"/>
 </p>
